@@ -135,15 +135,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zero-common/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
     vendor/samsung/zero-common/proprietary/lib/libarac.so:system/lib/libarac.so \
     vendor/samsung/zero-common/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-    vendor/samsung/zero-common/proprietary/lib/libcsc.so:system/lib/libcsc.so \
     vendor/samsung/zero-common/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/zero-common/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
-    vendor/samsung/zero-common/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
-    vendor/samsung/zero-common/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
-    vendor/samsung/zero-common/proprietary/lib/libexynosv4l2.so:system/lib/libexynosv4l2.so \
     vendor/samsung/zero-common/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
-    vendor/samsung/zero-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
-    vendor/samsung/zero-common/proprietary/lib/libion.so:system/lib/libion.so \
     vendor/samsung/zero-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/zero-common/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/zero-common/proprietary/lib/libsavsac.so:system/lib/libsavsac.so \
@@ -215,17 +209,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zero-common/proprietary/lib64/libbauthserver.so:system/lib64/libbauthserver.so \
     vendor/samsung/zero-common/proprietary/lib64/libbauthtzcommon.so:system/lib64/libbauthtzcommon.so \
     vendor/samsung/zero-common/proprietary/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
-    vendor/samsung/zero-common/proprietary/lib64/libcsc.so:system/lib64/libcsc.so \
     vendor/samsung/zero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so:system/lib64/libegis_fp_normal_sensor_test.so \
     vendor/samsung/zero-common/proprietary/lib64/libexynoscamera.so:system/lib64/libexynoscamera.so \
     vendor/samsung/zero-common/proprietary/lib64/libexynoscamera3.so:system/lib64/libexynoscamera3.so \
-    vendor/samsung/zero-common/proprietary/lib64/libexynosgscaler.so:system/lib64/libexynosgscaler.so \
-    vendor/samsung/zero-common/proprietary/lib64/libexynosscaler.so:system/lib64/libexynosscaler.so \
-    vendor/samsung/zero-common/proprietary/lib64/libexynosv4l2.so:system/lib64/libexynosv4l2.so \
     vendor/samsung/zero-common/proprietary/lib64/libfloatingfeature.so:system/lib64/libfloatingfeature.so \
     vendor/samsung/zero-common/proprietary/lib64/libhr.so:system/lib64/libhr.so \
-    vendor/samsung/zero-common/proprietary/lib64/libhwjpeg.so:system/lib64/libhwjpeg.so \
-    vendor/samsung/zero-common/proprietary/lib64/libion.so:system/lib64/libion.so \
     vendor/samsung/zero-common/proprietary/lib64/libmaxflicker.so:system/lib64/libmaxflicker.so \
     vendor/samsung/zero-common/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/samsung/zero-common/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
